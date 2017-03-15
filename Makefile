@@ -1,3 +1,3 @@
 prepublish:
-	rm -rf ./dist
-	babel index.js --out-dir ./dist
+	rm -rf ./index.js
+	node ./tools/build.js

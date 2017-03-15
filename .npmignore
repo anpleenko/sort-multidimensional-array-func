@@ -8,3 +8,5 @@ yarn.lock
 .travis.yml
 .editorconfig
 .idea
+webpack.config.js
+tools/
